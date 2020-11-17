@@ -1023,6 +1023,9 @@ Praise him.
 #### 
 
 #### Words As A Body
+:PROPERTIES:
+:heading: true
+:END:
 ##### by [Noah Grey](https://web.archive.org/web/20060326045355/http://noahgrey.com/read.php?g=78)
 
 ##### 
