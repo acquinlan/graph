@@ -1079,6 +1079,7 @@ would be the only part left — the wings.
 #### Deseret
 :PROPERTIES:
 :id: 45356e37-3276-4482-944e-6194f99149d5
+:heading: true
 :END:
 ##### by [Noah Grey](https://web.archive.org/web/20060326045236/http://noahgrey.com/read.php?g=6)
 
@@ -1166,6 +1167,9 @@ and carries it
 #### 
 
 #### You Go Where The Words Are
+:PROPERTIES:
+:heading: true
+:END:
 ##### 
 
 ##### and if the words
