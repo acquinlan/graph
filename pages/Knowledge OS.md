@@ -31,6 +31,9 @@ What do you need to set you up and get through the day?
 ## 
 
 ## One Vision: 
+:PROPERTIES:
+:heading: true
+:END:
 ### {{{embed ((de1a61f1-f744-4b6a-af28-d3ccc4bf4ab9))}}}
 
 ## 
