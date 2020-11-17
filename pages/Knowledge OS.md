@@ -1,6 +1,5 @@
 ---
 title: Knowledge OS
-public: true
 ---
 
 ## It's morning. You awake refreshed and head into your study to start the day. Morning sunlight slants through the window.
@@ -100,7 +99,8 @@ What do you need to set you up and get through the day?
 #### Utilize the device / platform / web browser resources such as spell checking, voice to text recognition, auto-complete — with a good mobile editing experience.
 
 #### Fine-grained text addressability (down to the block level as in #Roam)
-##### Note earlier work done here with [PurpleWiki](https://sensemaking.neocities.org/remuse.html#PurpleWiki) (((Dent)) & ((47648a4e-7347-40b8-870e-aab778b34d04)))
+##### Note earlier work done here with [PurpleWiki](https://sensemaking.neocities.org/remuse.html#PurpleWiki) (((4ffdb79e-74a0-4c6d-9d76-d62d7f4af4a1)) & ((47648a4e-7347-40b8-870e-aab778b34d04)))
+
 #### Transclusion of blocks
 ##### Roam does this well (mostly)
 
