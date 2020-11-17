@@ -1072,8 +1072,7 @@ would be the only part left — the wings.
 
 ##### 
 
-##### __March 7, 2004__
-
+##### _March 7, 2004_
 #### 
 
 #### Deseret
