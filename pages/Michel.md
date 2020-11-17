@@ -7,12 +7,11 @@ title: Michel
 
 ### #haiku 俳諧
 #### I summon Micl:      
+:PROPERTIES:
+:id: d4e32483-ac2c-4bfc-b897-1f4e88ff0e7a
+:END:
        musical idea        
 composition language
-:PROPERTIES:
-:ID:d4e32483-ac2c-4bfc-b897-1f4e88ff0e7a
-:END:
-
 #### 
 
 #### A supreme blank slate
