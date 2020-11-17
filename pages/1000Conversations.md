@@ -994,6 +994,9 @@ Praise him.
 ### David Whyte
 
 ### Noah Grey
+:PROPERTIES:
+:heading: true
+:END:
 #### https://twitter.com/manmadeghost
 
 #### 
