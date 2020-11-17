@@ -16,8 +16,11 @@ What do you need to set you up and get through the day?
 
 ## 
 
+##
+---
+alias: page1, page2
+---
 ## {{{alias ((d1367b77-3889-4b30-a0b7-e04066aadc7e))Week1}}}
-
 ## {{{alias ((8f86c804-fa76-4478-870c-a40928b3acce))Phase2}}}
 
 ## {{{alias ((69722f06-29c2-4c97-87d1-f39909918b21))Phase3}}}
