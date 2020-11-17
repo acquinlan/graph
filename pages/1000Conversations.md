@@ -1225,6 +1225,9 @@ you sing them when you wake
 #### 
 
 #### Strange Boy
+:PROPERTIES:
+:heading: true
+:END:
 ##### by [Noah Grey](https://web.archive.org/web/20060326045317/http://noahgrey.com/read.php?g=7)
 
 ##### 
