@@ -1002,8 +1002,7 @@ Praise him.
 #### 
 
 #### [Greymatter](https://web.archive.org/web/20010124065100/http://noahgrey.com/greysoft/) is an open source blogging software package, originally created by Noah Grey in October 2000.
-##### The same month, Noah wrote a poem "You Go Where The Words Are".
-
+##### Around the same time, Noah wrote a poem "You Go Where The Words Are".
 ##### 
 
 #### https://manmadeghost.com/about/
