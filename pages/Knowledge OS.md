@@ -24,8 +24,7 @@ What do you need to set you up and get through the day?
 
 ## {{{alias ((5f070777-acaa-4870-8d30-330bca10c280))FutureHopes}}}
 
-## {{{alias ((57b4c904-5ee2-415a-894f-8b20406c48d9))Inspirations}}}
-
+## {{{alias ((57b4c904-5ee2-415a-894f-8b20406c48d9))Inspirations}}
 ## 
 
 ## AC Quinlan:
