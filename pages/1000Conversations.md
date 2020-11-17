@@ -1274,7 +1274,7 @@ of being alive.
 
 ##### 
 
-##### December 19, 2003
+##### _December 19, 2003_
 ### Eleanor Cameron
 
 ### William Sleator
