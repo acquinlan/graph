@@ -2,6 +2,7 @@
 title: 1000Conversations
 public: true
 published: true
+permalink: 1000conversations
 ---
 
 ## __Reach out to one thousand people who made a dent in the universe.__
