@@ -1,5 +1,6 @@
 ---
 title: Knowledge OS
+public: true
 ---
 
 ## It's morning. You awake refreshed and head into your study to start the day. Morning sunlight slants through the window.
