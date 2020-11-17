@@ -1,6 +1,7 @@
 ---
 title: 1000Conversations
 public: true
+published: true
 ---
 
 ## __Reach out to one thousand people who made a dent in the universe.__
